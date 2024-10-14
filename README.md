@@ -1,9 +1,7 @@
 # CUPPBr - Common User Passwords Profiler Brasil
 
 
-
- 
-## About
+## About (Sobre)
 
   A forma mais comum de autenticação é a combinação de um nome de usuário
   e uma senha ou frase secreta. Se ambos corresponderem aos valores armazenados em uma
