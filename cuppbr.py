@@ -15,7 +15,7 @@ import re
 
 from webob import year
 
-__author__ = "Newton Vicente/Ramon Neves"
+__authors__ = "Newton Vicente/Ramon Neves/Ramon Marsal/Alex Augusto/Allan Felicio/Bruno Silva/Auber Maroneze"
 __license__ = ""
 __version__ = "2.0"
 
@@ -139,7 +139,11 @@ def print_cow():
     print(28 * " " + "Criação de Wordlists adaptado para a realidade Brasileira!\r\n")
     print("	Feito/Adaptado por:")
     print("	- Nilton Vicente [Github: https://github.com/nextroid] ")
-    print("	- Ramon Neves [Github: https://github.com/Rfarias1734] \r\n")
+    print("	- Ramon Neves [Github: https://github.com/Rfarias1734]")
+    print("	- Alex Augusto [Github: ] ")
+    print("	- Bruno Silva [Github: ] ")
+    print("	- Allan Felicio [Github: https://github.com/AllanFelicio] ")
+    print("	- Auber Maroneze [Github: ] \r\n")
     print("	ATENÇÃO: Somos uma modificação da ferramenta original cupp.py para uso no Brasil\r\n")
     print("	Ferramenta original (cupp) : https://github.com/Mebus/cupp")
     print("	Referência: Mebus | https://github.com/Mebus/\r\n")
