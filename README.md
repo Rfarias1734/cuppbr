@@ -103,7 +103,7 @@ para incentivar o desenvolvimento da ferramenta.
   * Ramon Marsal
 
   * Allan Felicio
-      https://github.com/AllanFelicio 
+    https://github.com/AllanFelicio 
 
   * Auber Maroneze
 
