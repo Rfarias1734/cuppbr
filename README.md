@@ -93,8 +93,18 @@ para incentivar o desenvolvimento da ferramenta.
   * Ramon Neves  
     https://github.com/Rfarias1734 
     
-  * Newton Vicente  
-    https://github.com/nextroid 
+  * Nilton Vicente  
+    https://github.com/nextroid
+
+  * Alex Augusto
+
+  * Bruno Silva
+
+  * Ramon Marsal
+
+  * Allan Felicio
+
+  * Auber Maroneze
 
 
 ## Contributors (CUPP.py)
