@@ -91,10 +91,10 @@ para incentivar o desenvolvimento da ferramenta.
 ## Contributors (CUPPBr.py)
 
   * Ramon Neves  
-    https://github.com/Rfarias1734 
+      https://github.com/Rfarias1734 
     
   * Nilton Vicente  
-    https://github.com/nextroid
+      https://github.com/nextroid
 
   * Alex Augusto
 
@@ -103,7 +103,7 @@ para incentivar o desenvolvimento da ferramenta.
   * Ramon Marsal
 
   * Allan Felicio
-    https://github.com/AllanFelicio 
+      https://github.com/AllanFelicio 
 
   * Auber Maroneze
 
